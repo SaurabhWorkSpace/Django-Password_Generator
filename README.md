@@ -23,7 +23,9 @@ referenced or copied from ZappyCode; used only for writing my first markdown fil
 #### Create a new project
 ```sh
 django-admin startproject projectname
-or 
+````
+or
+````sh
 django-admin startproject projectname .
 ```
 #### Add an App to a Project

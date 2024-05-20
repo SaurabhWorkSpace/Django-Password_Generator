@@ -1,16 +1,16 @@
 # Django-Password_Generator
 #_A simple website to create a random password with several options. You will learn how to_:
-> Install Django
-> Create a new project  
-> Work with Django's URL routing  
-> Creating Templates  
-> Submit and handle HTML form data
+- Install Django
+- Create a new project  
+- Work with Django's URL routing  
+- Creating Templates  
+- Submit and handle HTML form data
 
 
 ## [Tech][dill]
 List of tools required for this project:
-> Python
-> Django
+- Python
+- Django
 
 ## DJANGO CHEET SHEET *[GOTO][df1]*
 

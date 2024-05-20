@@ -7,8 +7,8 @@
 > Submit and handle HTML form data
 
 
-## #[Tech][dill]
-
+## [Tech][dill]
+List of tools required for this project:
 > Python
 > Django
 

@@ -3,9 +3,14 @@
 import os
 import sys
 
+from datetime import date, datetime
+
 
 def main():
     """Run administrative tasks."""
+    print(f'running manage.py project file...' + # {date.today()}
+        f'\n\tbuild at: {datetime.now()}')
+    print(f'arguments: {sys.argv}')
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "PasswordGenerator.settings")
     try:
         from django.core.management import execute_from_command_line
